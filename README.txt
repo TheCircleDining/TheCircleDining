@@ -1,4 +1,4 @@
-This is the landing page for cantrip.games, all rights reserved.
+This is the landing page for thecircledining.com, all rights reserved.
 
 
 Credits:
